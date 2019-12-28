@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Model\\Model.csproj": {}
+    "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Model\\Model.csproj": {
+    "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Lalo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Model\\obj\\",
+        "outputPath": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

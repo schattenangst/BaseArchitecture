@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Business\\Business.csproj": {}
+    "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Business\\Business.csproj": {
+    "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Lalo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

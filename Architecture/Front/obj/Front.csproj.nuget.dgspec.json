@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Front\\Front.csproj": {}
+    "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Front\\Front.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Front\\Front.csproj": {
+    "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Front\\Front.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Front\\Front.csproj",
+        "projectUniqueName": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Front\\Front.csproj",
         "projectName": "Front",
-        "projectPath": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Front\\Front.csproj",
+        "projectPath": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Front\\Front.csproj",
         "packagesPath": "C:\\Users\\Lalo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Front\\obj\\",
+        "outputPath": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Front\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Common\\Common.csproj": {}
+    "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Common\\Common.csproj": {
+    "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Lalo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lalo\\source\\repos\\BaseArchitecture\\Architecture\\Common\\obj\\",
+        "outputPath": "C:\\Users\\Lalo\\Source\\Repos\\BaseArchitecture\\Architecture\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
