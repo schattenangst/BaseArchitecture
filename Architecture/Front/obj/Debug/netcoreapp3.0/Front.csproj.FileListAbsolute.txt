@@ -1,0 +1,10 @@
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\bin\Debug\netcoreapp3.0\Front.exe
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\bin\Debug\netcoreapp3.0\Front.deps.json
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\bin\Debug\netcoreapp3.0\Front.runtimeconfig.json
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\bin\Debug\netcoreapp3.0\Front.runtimeconfig.dev.json
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\bin\Debug\netcoreapp3.0\Front.dll
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\bin\Debug\netcoreapp3.0\Front.pdb
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\obj\Debug\netcoreapp3.0\Front.AssemblyInfoInputs.cache
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\obj\Debug\netcoreapp3.0\Front.AssemblyInfo.cs
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\obj\Debug\netcoreapp3.0\Front.dll
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Front\obj\Debug\netcoreapp3.0\Front.pdb

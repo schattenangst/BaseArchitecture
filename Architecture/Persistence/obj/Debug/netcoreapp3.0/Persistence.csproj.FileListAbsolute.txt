@@ -1,0 +1,7 @@
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Persistence\bin\Debug\netcoreapp3.0\Persistence.deps.json
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Persistence\bin\Debug\netcoreapp3.0\Persistence.dll
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Persistence\bin\Debug\netcoreapp3.0\Persistence.pdb
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfo.cs
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Persistence\obj\Debug\netcoreapp3.0\Persistence.dll
+C:\Users\Lalo\source\repos\BaseArchitecture\Architecture\Persistence\obj\Debug\netcoreapp3.0\Persistence.pdb
